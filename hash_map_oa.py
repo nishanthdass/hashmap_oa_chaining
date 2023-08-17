@@ -3,7 +3,7 @@
 # __next__()
 
 
-from a6_include import (DynamicArray, DynamicArrayException, HashEntry,
+from include import (DynamicArray, DynamicArrayException, HashEntry,
                         hash_function_1, hash_function_2)
 
 class HashException(Exception):
