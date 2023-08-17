@@ -1,8 +1,4 @@
-# Name: Nishanth Dass
-# OSU Email: dassn@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: Assignment 6
-# Due Date: 3/17/2023
+
 # Description:  This is an implementation of a Hashmap using singly linked lists. It includes the following functions: put()
 # get(), remove(), contains_key(), clear(), empty_buckets(), resize_table(), table_load(), get_keys() and a find_mode() function
 
