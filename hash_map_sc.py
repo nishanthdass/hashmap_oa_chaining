@@ -1,4 +1,3 @@
-
 # Description:  This is an implementation of a Hashmap using singly linked lists. It includes the following functions: put()
 # get(), remove(), contains_key(), clear(), empty_buckets(), resize_table(), table_load(), get_keys() and a find_mode() function
 
